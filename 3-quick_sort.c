@@ -40,6 +40,7 @@ void quick_sort_recursive(int *array, int low, int high, size_t size)
  * @array: array of integers
  * @low: low index
  * @high: high index
+ * @size: size of the array
  * Return: index of the pivot
  */
 
